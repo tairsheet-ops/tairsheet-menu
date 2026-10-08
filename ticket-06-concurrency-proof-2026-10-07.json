@@ -7,8 +7,8 @@
     "uri": "https://tairsheet.com/about/ticket-06-proof",
     "name": "Ticket 06 Concurrency Proof 2026-10-07"
   },
-  "revision": 21,
-  "last_updated": "2026-10-08T12:14:12.395934+00:00",
+  "revision": 22,
+  "last_updated": "2026-10-08T12:20:41.301886+00:00",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "actions": [
     "report_claim"
@@ -30,5 +30,5 @@
       }
     ]
   },
-  "body": null
+  "body": "ticket-06 concurrent identical write a5a341a5-adf2-4567-b730-8614ecbdb15f"
 }
