@@ -7,8 +7,8 @@
     "uri": "https://tairsheet.com/about/ticket-06-proof",
     "name": "Ticket 06 Concurrency Proof 2026-10-07"
   },
-  "revision": 13,
-  "last_updated": "2026-10-08T11:25:59.48386+00:00",
+  "revision": 14,
+  "last_updated": "2026-10-08T11:25:59.5614+00:00",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "actions": [
     "report_claim"
@@ -19,8 +19,8 @@
       {
         "items": [
           {
-            "name": "Variant item one",
-            "price": 2,
+            "name": "Variant item two",
+            "price": 3,
             "allergens": null,
             "description": null,
             "dietary_flags": null
