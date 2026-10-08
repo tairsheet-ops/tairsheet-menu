@@ -4,11 +4,11 @@
   "slug": "/molina-s-cantina",
   "canonical_url": "https://tairsheet.com/molina-s-cantina",
   "asserted_by": {
-    "uri": "https://www.molinascantina.com/menus/popmenu?location=westheimer",
+    "uri": "https://www.molinascantina.com/",
     "name": "Molina's Cantina"
   },
-  "revision": 1,
-  "last_updated": "2026-10-08T11:17:35.536496+00:00",
+  "revision": 2,
+  "last_updated": "2026-10-08T11:17:39.903322+00:00",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "actions": [],
   "facts": {
