@@ -7,8 +7,8 @@
     "uri": "https://tairsheet.com/about/ticket-06-proof",
     "name": "Ticket 06 Concurrency Proof 2026-10-07"
   },
-  "revision": 4,
-  "last_updated": "2026-10-08T10:35:28.764085+00:00",
+  "revision": 5,
+  "last_updated": "2026-10-08T10:35:33.154939+00:00",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "actions": [
     "report_claim"
@@ -30,5 +30,5 @@
       }
     ]
   },
-  "body": "ticket-05 write-concurrency B 4aeac98f"
+  "body": "Ticket 05 automatic wake acceptance after SQL qualification correction"
 }
