@@ -1,0 +1,320 @@
+{
+  "id": "21723c47-3c42-4544-9cee-b2ea8442f91f",
+  "type": "menu",
+  "slug": "/peter-luger-steak-house",
+  "canonical_url": "https://tairsheet.com/peter-luger-steak-house",
+  "asserted_by": {
+    "uri": "https://tairsheet.com",
+    "name": "Tairsheet"
+  },
+  "about": {
+    "uri": "https://peterluger.com/",
+    "name": "Peter Luger Steak House"
+  },
+  "revision": 1,
+  "last_updated": "2026-11-10T21:12:09.69068+00:00",
+  "license": null,
+  "actions": [],
+  "facts": {
+    "currency": "USD",
+    "sections": [
+      {
+        "items": [
+          {
+            "name": "Luger-Burger",
+            "price": null,
+            "allergens": null,
+            "description": "Over 1/2 lb., on a Bun with option to add French Fries and/or Cheese & Bacon. Served Daily Until 4:00 PM",
+            "dietary_flags": null
+          }
+        ],
+        "title": null
+      },
+      {
+        "items": [
+          {
+            "name": "Sliced Tomatoes with Luger's Own sauce (for 2)",
+            "price": null,
+            "allergens": null,
+            "description": null,
+            "dietary_flags": null
+          },
+          {
+            "name": "Sliced Tomatoes & Onions with Luger's Own sauce (for 2)",
+            "price": null,
+            "allergens": null,
+            "description": null,
+            "dietary_flags": null
+          },
+          {
+            "name": "Luger's Sizzling Bacon, Extra Thick by the Slice",
+            "price": null,
+            "allergens": null,
+            "description": null,
+            "dietary_flags": null
+          },
+          {
+            "name": "Caesar Salad, Grated Pecorino Romano, Homemade Croutons",
+            "price": null,
+            "allergens": null,
+            "description": null,
+            "dietary_flags": null
+          },
+          {
+            "name": "Iceberg Wedge Salad, Chopped Tomato, Bacon, Crumbled Blue Cheese",
+            "price": null,
+            "allergens": null,
+            "description": null,
+            "dietary_flags": null
+          },
+          {
+            "name": "House Salad, Hearts of Palm, Roasted Pumkin Seeds, Vinaigrette",
+            "price": null,
+            "allergens": null,
+            "description": "With Choice of Homemade Dressing: Russian, Vinaigrette, Garlic French, Blue Cheese, Crumbled Blue Cheese, Chopped Bacon",
+            "dietary_flags": null
+          },
+          {
+            "name": "Jumbo Shrimp Cocktail (4)",
+            "price": null,
+            "allergens": null,
+            "description": null,
+            "dietary_flags": null
+          },
+          {
+            "name": "Jumbo Shrimp Cocktail, Extra Large Portion (6)",
+            "price": null,
+            "allergens": null,
+            "description": null,
+            "dietary_flags": null
+          },
+          {
+            "name": "Jumbo Lump Crab Cake",
+            "price": null,
+            "allergens": null,
+            "description": null,
+            "dietary_flags": null
+          },
+          {
+            "name": "Lamb, Double Thick Chop Split",
+            "price": null,
+            "allergens": null,
+            "description": null,
+            "dietary_flags": null
+          },
+          {
+            "name": "Housemade Bratwurst, USDA Prime Beef and Pork Shoulder, Vinegared Cabbage, House Mustard",
+            "price": null,
+            "allergens": null,
+            "description": null,
+            "dietary_flags": null
+          }
+        ],
+        "title": "Appetizers"
+      },
+      {
+        "items": [
+          {
+            "name": "Steak For Two",
+            "price": null,
+            "allergens": null,
+            "description": null,
+            "dietary_flags": null
+          },
+          {
+            "name": "Steak For Three",
+            "price": null,
+            "allergens": null,
+            "description": null,
+            "dietary_flags": null
+          },
+          {
+            "name": "Steak For Four",
+            "price": null,
+            "allergens": null,
+            "description": null,
+            "dietary_flags": null
+          },
+          {
+            "name": "Single Steak",
+            "price": null,
+            "allergens": null,
+            "description": null,
+            "dietary_flags": null
+          },
+          {
+            "name": "Rib Steak For One or Two",
+            "price": null,
+            "allergens": null,
+            "description": null,
+            "dietary_flags": null
+          }
+        ],
+        "title": "USDA Prime Beef"
+      },
+      {
+        "items": [
+          {
+            "name": "Lamb Chops, 2 Double Thick Loin Chops",
+            "price": null,
+            "allergens": null,
+            "description": "Extra Large",
+            "dietary_flags": null
+          },
+          {
+            "name": "Chicken Broiled, One Half",
+            "price": null,
+            "allergens": null,
+            "description": null,
+            "dietary_flags": null
+          },
+          {
+            "name": "Grilled Atlantic Salmon",
+            "price": null,
+            "allergens": null,
+            "description": null,
+            "dietary_flags": null
+          },
+          {
+            "name": "Filet of Sole",
+            "price": null,
+            "allergens": null,
+            "description": null,
+            "dietary_flags": null
+          },
+          {
+            "name": "Lobster, Broiled Maine, Whole",
+            "price": null,
+            "allergens": null,
+            "description": "Weight 2 1/4 to 2 1/2 lbs. according to season",
+            "dietary_flags": null
+          }
+        ],
+        "title": null
+      },
+      {
+        "items": [
+          {
+            "name": "French Fried Potatoes (for 1 or 2)",
+            "price": null,
+            "allergens": null,
+            "description": null,
+            "dietary_flags": null
+          },
+          {
+            "name": "Fresh Broccoli (for 2)",
+            "price": null,
+            "allergens": null,
+            "description": null,
+            "dietary_flags": null
+          },
+          {
+            "name": "Creamed Spinach (for 2)",
+            "price": null,
+            "allergens": null,
+            "description": null,
+            "dietary_flags": null
+          },
+          {
+            "name": "Mushrooms",
+            "price": null,
+            "allergens": null,
+            "description": null,
+            "dietary_flags": null
+          },
+          {
+            "name": "Luger's Special German Fried Potatoes (for 2)",
+            "price": null,
+            "allergens": null,
+            "description": null,
+            "dietary_flags": null
+          },
+          {
+            "name": "Baked Oversized Potato with Sour Cream (as available)",
+            "price": null,
+            "allergens": null,
+            "description": null,
+            "dietary_flags": null
+          }
+        ],
+        "title": "Vegetables"
+      },
+      {
+        "items": [
+          {
+            "name": "Apple Strudel",
+            "price": null,
+            "allergens": null,
+            "description": null,
+            "dietary_flags": null
+          },
+          {
+            "name": "Cheese Cake",
+            "price": null,
+            "allergens": null,
+            "description": null,
+            "dietary_flags": null
+          },
+          {
+            "name": "Chocolate Mousse",
+            "price": null,
+            "allergens": null,
+            "description": null,
+            "dietary_flags": null
+          },
+          {
+            "name": "Fruit Tarts",
+            "price": null,
+            "allergens": null,
+            "description": null,
+            "dietary_flags": null
+          },
+          {
+            "name": "Key Lime Pie",
+            "price": null,
+            "allergens": null,
+            "description": null,
+            "dietary_flags": null
+          },
+          {
+            "name": "Pecan Pie",
+            "price": null,
+            "allergens": null,
+            "description": null,
+            "dietary_flags": null
+          },
+          {
+            "name": "Ice Cream",
+            "price": null,
+            "allergens": null,
+            "description": null,
+            "dietary_flags": null
+          },
+          {
+            "name": "Sorbet",
+            "price": null,
+            "allergens": null,
+            "description": null,
+            "dietary_flags": null
+          },
+          {
+            "name": "Fresh Fruit in Season",
+            "price": null,
+            "allergens": null,
+            "description": null,
+            "dietary_flags": null
+          },
+          {
+            "name": "Luger's Special \"Holy Cow\" Hot Fudge Sundae",
+            "price": null,
+            "allergens": null,
+            "description": null,
+            "dietary_flags": null
+          }
+        ],
+        "title": "Desserts"
+      }
+    ]
+  },
+  "body": null
+}
