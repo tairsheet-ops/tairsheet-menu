@@ -4,15 +4,19 @@
   "slug": "/molinas-cantina",
   "canonical_url": "https://tairsheet.com/molinas-cantina",
   "asserted_by": {
+    "uri": "https://tairsheet.com",
+    "name": "Tairsheet"
+  },
+  "about": {
     "uri": "https://www.molinascantina.com/",
     "name": "Molina's Cantina"
   },
-  "revision": 1,
-  "last_updated": "2026-11-10T18:30:35.346705+00:00",
-  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "revision": 2,
+  "last_updated": "2026-11-10T19:17:41.516323+00:00",
+  "license": null,
   "actions": [],
   "facts": {
-    "currency": "$",
+    "currency": "USD",
     "sections": [
       {
         "items": [
